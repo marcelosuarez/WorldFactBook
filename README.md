@@ -1,4 +1,4 @@
-# WorldFactBook
+# World Fact Book - Country Codes Mapping
 
 GEOPOLITICAL ENTITIES and CODES (formerly FIPS PUB 10-4): FIPS PUB 10-4 was withdrawn by the National Institute of Standards and Technology on 2 September 2008 based on Public Law 104-113 (codified OMB Circular A-119 and the National Technology Transfer and Advancement Act of 1995). The National Geospatial-Intelligence Agency (NGA), as the maintenance authority for FIPS PUB 10-4, has continued to maintain and provide regular updates to its content in a document known as Geopolitical Entities and Codes (GEC) (Formerly FIPS 1PUB 10-4).
 
